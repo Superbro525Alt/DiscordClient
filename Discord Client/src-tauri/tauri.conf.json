@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "Dis-cable",
+    "productName": "discord-client",
     "version": "0.0.0"
   },
   "tauri": {
@@ -37,9 +37,10 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "Dis-cable",
+        "title": "Discord v2",
         "width": 800,
-        "height": 600
+        "height": 600,
+        "url": "https://discord.com/app"
       }
     ]
   }
